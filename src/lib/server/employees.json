@@ -1,0 +1,47 @@
+[
+  {
+    "id": "emp-1",
+    "name": "Lena Foster",
+    "title": "People Operations Lead",
+    "department": "HR",
+    "location": "Boston",
+    "salary": 98000,
+    "hireDate": "2019-03-14"
+  },
+  {
+    "id": "emp-2",
+    "name": "Darius Patel",
+    "title": "Staff Engineer",
+    "department": "Platform",
+    "location": "Remote - NYC",
+    "salary": 148000,
+    "hireDate": "2017-09-05"
+  },
+  {
+    "id": "emp-3",
+    "name": "Mia Carpenter",
+    "title": "Product Design Manager",
+    "department": "Design",
+    "location": "Austin",
+    "salary": 132500,
+    "hireDate": "2021-01-22"
+  },
+  {
+    "name": "Hugo Bennett333",
+    "title": "Customer Success Partner",
+    "department": "Customer",
+    "location": "London",
+    "salary": 92000,
+    "hireDate": "2020-06-18",
+    "id": "emp-4"
+  },
+  {
+    "id": "emp-5",
+    "name": "Nora Kim",
+    "title": "FP&A Analyst",
+    "department": "Finance",
+    "location": "Seattle",
+    "salary": 104000,
+    "hireDate": "2022-11-07"
+  }
+]
